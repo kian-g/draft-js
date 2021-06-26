@@ -52,9 +52,9 @@ Previously, the old API was set to be removed in `v0.11.0`. Since, the plans hav
 
 ```
 npm install --save draft-js react react-dom
-
+```
 or
-
+```
 yarn add draft-js react react-dom
 ```
 
